@@ -2,17 +2,17 @@
 
 - 👀 I’m interested in ...
 
-Hacking, javascript, servers, APIs, embedded stuff, cloud stuff, Apple, hashes, development, PC hardware, sorcery, blacksmithing, hackthebox, yoga
+Hacking, javascript, servers, APIs, embedded stuff, cloud stuff, Apple, hashes, development, PC hardware, blacksmithing, hackthebox,
 
-javascript, iOS, macOS, SWIFT!, C, C++, C#, React, python3, and the many gorgeous faces of shells and their scripts ☺
+javascript, iOS, macOS, SWIFT!, C, C++, C#, React, python3, and the many faces of shells and their scripts ☺
 
 - 🌱 I’m currently learning ...
 
-more cloud stuff, more exploits, more Azure, and keeping my React tions (C) sharp
+more cloud stuff, more exploits, more Azure, AWS, Lambda, Websockets, Video streaming
 
 - 💞️ I’m looking to collaborate on ...
 
-open source, security, cloud development, anything javascript, CTFs, IoT, medical devices
+open source, security, cloud development, anything javascript, CTFs, IoT, medical devices, etc
 
 - 📫 How to reach me ...
 
