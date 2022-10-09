@@ -2,17 +2,17 @@
 
 - 👀 I’m interested in ...
 
-Hacking, javascript, servers, APIs, embedded stuff, cloud stuff, Apple, hashes, development, PC hardware, blacksmithing, hackthebox,
+Hacking, javascript, servers, APIs, embedded stuff, cloud stuff, Apple, hashes, development, PC hardware, hackthebox, Fedora, raspberry pi, metasploit, networking 
 
 javascript, iOS, macOS, SWIFT!, C, C++, C#, React, python3, and the many faces of shells and their scripts ☺
 
 - 🌱 I’m currently learning ...
 
-more cloud stuff, more exploits, more Azure, AWS, Lambda, Websockets, Video streaming
+more cloud stuff, more exploits, AWS, more embedded C, lambda, video streaming, Gnome, DNS, active directory
 
 - 💞️ I’m looking to collaborate on ...
 
-open source, security, cloud development, anything javascript, CTFs, IoT, medical devices, etc
+open source, security, cloud development, anything javascript, CTFs, IoT, medical devices, metasploit, Fedora
 
 - 📫 How to reach me ...
 
